@@ -1,0 +1,31 @@
+@import url("link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300&family=Nanum+Myeongjo:wght@400;700&family=Readex+Pro:wght@600&display=swap);
+
+@import url("components/container.css");
+
+@import url("components/avatar.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/box.css");
+
+@import	url("components/cards.css")
+
+
+body{
+	font-family: 'Nanum Myeongjo', serif;
+	font-size: 25px;
+	margin: 0px;
+}
+
+h1, h2, h3 {
+	font-family: 'Heebo', sans-serif;
+	font-weight: bold;
+}
+
+a{
+	text-decoration: none;
+}
+
+
